@@ -1,5 +1,3 @@
-# README.md
+## Codelab instalacion y prueba usando Mosquitto usando compose
 
-## Codelabs del curso Electiva en Ingeniería II
-
-- texto
+En este codelab y en la máquina virtual se encuentra la instalación de mosquitto.
