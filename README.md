@@ -1,5 +1,3 @@
-# README.md
+## Codelab docker compose
 
-## Codelabs del curso Electiva en Ingeniería II
-
-- texto
+En este codelab se encuentra el .yml del codelab y el .yml que se realizó en clase
